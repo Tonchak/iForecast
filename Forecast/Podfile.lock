@@ -1,3 +1,24 @@
-PODFILE CHECKSUM: cfa1ad45261c923f69e0520f7abb07d35cce5d4d
+PODS:
+  - Alamofire (5.5.0)
+  - Pilgrim-DI (1.1.1)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Pilgrim-DI
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Pilgrim-DI
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Pilgrim-DI: f20c79c252e00d128c322f1d32eb77688401b3fc
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: cfed8ecdbcfb80dc1cd897fc6704c9445ce2c854
 
 COCOAPODS: 1.11.2
